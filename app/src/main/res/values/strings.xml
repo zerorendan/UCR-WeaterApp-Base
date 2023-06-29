@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather UCR</string>
+    <string name="hourly_forecast">Hourly Forecast</string>
+    <string name="daily_forecast">Daily Forecast</string>
+    <string name="temp">Temperature</string>
+    <string name="feels_like">Feels like</string>
+    <string name="cloudiness">Cloudiness</string>
+    <string name="humidity">Humidity</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind">Wind</string>
+    <string name="metric">km</string>
+    <string name="pressure">Pressure</string>
+    <string name="clear_sky_condition">Clear Sky</string>
+    <string name="few_cloud_condition">Few Clouds</string>
+    <string name="scattered_cloud_condition">Scattered Clouds</string>
+    <string name="broken_clouds_condition">Broken Clouds</string>
+    <string name="shower_rain">Shower Rain</string>
+    <string name="rain">rain</string>
+    <string name="thunderstorm">thunderstorm</string>
+    <string name="snow">snow</string>
+    <string name="mist">mist</string>
+    <string name="clouds">clouds</string>
+    <string name="clear">clear</string>
+</resources>
